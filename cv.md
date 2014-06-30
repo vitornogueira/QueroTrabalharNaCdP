@@ -40,6 +40,11 @@ A Jaws Digital é uma agência do interior de São Paulo focada em portais de no
 
 ####Técnico em Informática (2009-2011)
 
+###Cursos
+
+###Photoshop CS5 e CorelDraw X5 - Senac Itapetininga
+###Workshop Be MEAN Itapetininga - Jean Carlo Nascimento
+
 ##Projetos
 
 ###PriceApp

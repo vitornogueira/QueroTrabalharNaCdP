@@ -42,21 +42,21 @@ A Jaws Digital é uma agência do interior de São Paulo focada em portais de no
 
 ###Cursos
 
-###Photoshop CS5 e CorelDraw X5 - Senac Itapetininga
-###Workshop Be MEAN Itapetininga - Jean Carlo Nascimento
+####Photoshop CS5 e CorelDraw X5 - Senac Itapetininga
+####Workshop Be MEAN Itapetininga - Jean Carlo Nascimento
 
 ##Projetos
 
 ###PriceApp
-https://play.google.com/store/apps/details?id=org.priceapp.priceapp
-http://priceapp.github.io/priceapp/#sobre
-https://speakerdeck.com/vitornogueira/priceapp
+- https://play.google.com/store/apps/details?id=org.priceapp.priceapp
+- http://priceapp.github.io/priceapp/#sobre
+- https://speakerdeck.com/vitornogueira/priceapp
 
 ##Links
 
-http://github.com/vitornogueira
-http://www.linkedin.com/in/vitornogueiraa
-https://twitter.com/vitornogueiraa
-https://www.facebook.com/vitornogueiraa
-Talk: vnweb.contato@gmail.com
-Skype: vitor.nogueiraa
+- http://github.com/vitornogueira
+- http://www.linkedin.com/in/vitornogueiraa
+- https://twitter.com/vitornogueiraa
+- https://www.facebook.com/vitornogueiraa
+- Talk: vnweb.contato@gmail.com
+- Skype: vitor.nogueiraa
